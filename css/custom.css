@@ -1,0 +1,15 @@
+.on {
+	background-color: #ffffff !important;
+	padding: 0 !important;
+	padding: 10px 0 !important;
+}
+#menu.navbar-default .navbar-nav > li > a {
+	text-transform: uppercase;
+	color: #999999;
+	font-weight: 500;
+	font-size: 15px;
+	padding: 5px 0;
+	border: 2px solid transparent;
+	letter-spacing: 0.5px;
+	margin: 10px 15px 0 15px;
+}
